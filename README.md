@@ -1,6 +1,6 @@
 
 *Name : MAMATA SHEE* <br/>
-*Email : geekytaurus115@gmail.com* <br/>
+
 
 
 # JS-Calculator
